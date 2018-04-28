@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "PhraseGeneratorFoodIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "alexa-skill-phrase-generator-food",
+  "version": "0.0.1",
+  "description": "An Alexa skill for generating phrases about food",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmjones/Alexa.PhraseGeneratorFood.git"
+  },
+  "author": "Patrick M Jones <patrick@patrickmjones.com> (https://www.patrickmjones.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickmjones/Alexa.PhraseGeneratorFood/issues"
+  },
+  "homepage": "https://github.com/patrickmjones/Alexa.PhraseGeneratorFood#readme",
+  "dependencies": {
+    "dot": "^1.1.1"
+  }
+}

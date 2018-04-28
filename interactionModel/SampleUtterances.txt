@@ -1,0 +1,4 @@
+PhraseGeneratorFoodIntent what's for dinner
+PhraseGeneratorFoodIntent for a dish
+PhraseGeneratorFoodIntent for a gourmet dish
+PhraseGeneratorFoodIntent for random food
